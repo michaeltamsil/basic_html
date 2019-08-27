@@ -7,7 +7,7 @@ where content is a link to week_04 and week_06
         jelaskan
 
 favicon
-
+https://icons8.com
 find image with low pixel / size
 add inside head 
 <link rel="shortcut icon" href="http://example.com/favicon.ico" />
