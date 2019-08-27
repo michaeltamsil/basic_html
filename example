@@ -1,0 +1,13 @@
+create index.html
+where content is a link to week_04 and week_06
+
+        <a href="./week_04" style="font-size:2em; margin: auto 0.5em;">Week 4</a>
+        <a href="./week_06" style="font-size:2em; margin: auto 0.5em;">Week 6</a>
+
+        jelaskan
+
+favicon
+
+find image with low pixel / size
+add inside head 
+<link rel="shortcut icon" href="http://example.com/favicon.ico" />
