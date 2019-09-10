@@ -1,0 +1,22 @@
+.gallery {
+    display: inline-block;
+    border:1em solid rgb(255, 189, 103);
+    border-radius:0.5em;
+    width: 48%;
+}
+
+.gallery > img {
+    width: 100%
+}
+
+.gallery > div {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+.garis-oren {
+    border:1em solid rgb(255, 189, 103);
+    margin-bottom: 2em;
+    border-radius:0.5em;
+}
